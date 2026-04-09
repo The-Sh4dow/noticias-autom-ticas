@@ -1,0 +1,5 @@
+# requirements.txt
+feedparser==6.0.11
+httpx==0.27.2
+anthropic>=0.40.0
+python-dateutil==2.9.0
